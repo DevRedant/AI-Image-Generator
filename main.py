@@ -1,6 +1,6 @@
 import discord, os, asyncio
 from discord.ext import commands
-from keepOnline import keepOnline
+
 
 class YourDiscordBot(commands.Bot):
 
