@@ -14,7 +14,7 @@ class img(commands.Cog):
   )
   async def image(self, interaction: discord.Interaction, prompt: str):
     query = prompt
-    openai.api_key = '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'
+    openai.api_key = 'OpenAI_Api Key'
     response = openai.Image.create(
       prompt=query,
       n=1,
