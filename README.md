@@ -1,5 +1,6 @@
 # AI-Image-Generator
-
+> Made by Redant#9680
+> Dm if you want to build a help command or any help you need. 
 
 # How to you this code? 
 > Add your bot token in env file named TOKEN. 
